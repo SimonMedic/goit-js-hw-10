@@ -131,3 +131,15 @@ body.selected-background {
   margin-top: 10px;
   text-align: center;
 }
+
+@media screen and (min-width: 480px) {
+  .cat-info p {
+    font-size: 17px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .cat-info p {
+    font-size: 23px;
+  }
+}
